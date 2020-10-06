@@ -229,7 +229,7 @@ Q12. How can you disable the submit button when the form has errors in this temp
   
 - [ ]  `Three. There is one for each async pipe`
   
-- [x]  `None. The template syntax is not correct`
+- [ ]  `None. The template syntax is not correct`
 
 
 #### Q17. What other template syntax (replacing the ngClass directive) can be used to add or remove the CSS class names in this markup ?
